@@ -6,4 +6,4 @@ I also stopped saving some codes because some judges allow me to view them onlin
 
 user: `luisjmarrero`
 
-judges:`1codeforces`, `spoj`, `uri`, `coj`, `uva`
+judges:`codeforces`, `spoj`, `uri`, `coj`, `uva`
